@@ -1,0 +1,40 @@
+body {
+	background: url(".../images/");
+}
+
+div{
+
+	width: 40%;
+	height: 100px;
+	background-color: darkcyan;
+	padding: 5px;
+	border: 2px;
+	margin: 25px;
+}
+
+#one{
+	margin: 0 auto;
+}
+
+#two{
+	display: inline-block;
+}
+
+#three{
+	display: inline-block;
+}
+
+#four{
+	display: block;
+}
+
+.tinybox{
+	background-color: pink;
+	position: absolute;
+	width: 1%;
+	height: 1%;
+	right: 100px;
+	left:588px;
+	bottom: 336px;
+	margin: 0px;
+}
